@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Who am I?
-Expert-vetted frontend engineer with 10+ years of professional work experience in web development.
+Expert full-stack engineer with 10+ years of professional work experience in web development.
 
 [![twitter badge](https://img.shields.io/badge/-@dadwic-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dadwic)
 [![dev.to badge](https://img.shields.io/badge/-dadwic-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dadwic)
