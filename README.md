@@ -35,7 +35,8 @@ Expert full-stack engineer with 10+ years of professional work experience in web
 ### 🌱 I’m currently learning:
 - Golang
 - Electron
-- ...
+- DevOps CI/CD tools
+- Amazon Web Services (AWS)
 
 ## Stats
 <p>
