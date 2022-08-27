@@ -12,9 +12,7 @@
 ### 🔭 I’m currently working on:
 - Blockchain
 - Cryptocurrencies
-- WYSIWYG Website Builder
-- Centralized and de-centralized exchanges
-- ...
+- No-code website builder
 
 ### 🌱 I’m currently learning:
 - Electron
