@@ -16,6 +16,7 @@
 
 ### 🌱 I’m currently learning:
 - Electron
+- Vue.js and Nuxt
 - DevOps CI/CD tools
 - Amazon Web Services (AWS)
 
