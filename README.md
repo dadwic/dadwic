@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mehrdad 🇹🇷</h1>
-<h3 align="center">Expert full-stack engineer with 10+ years of professional work experience in web development.</h3>
+<h3 align="center">Expert full-stack engineer with over 8 years of professional work experience in web development.</h3>
 
 [![twitter badge](https://img.shields.io/badge/-@dadwic-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dadwic)
 [![dev.to badge](https://img.shields.io/badge/-dadwic-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dadwic)
