@@ -7,6 +7,7 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/dadwic)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dadwic0@gmail.com)](mailto:dadwic0@gmail.com)
 ![githubbadge](https://img.shields.io/github/followers/dadwic?style=social)
+[![YouTube](https://img.shields.io/youtube/channel/views/UCyd4CXY_oQxM5TYN00GMkMQ?style=social)](https://youtu.be/LuFqMLX87zo)
 ![](https://komarev.com/ghpvc/?username=dadwic&color=brightgreen&style=flat)
 
 ### 🔭 I’m currently working on:
