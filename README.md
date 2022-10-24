@@ -16,7 +16,7 @@
 - No-code website builder
 
 ### 🌱 I’m currently learning:
-- Electron
+- Solidity
 - Vue.js and Nuxt
 - DevOps CI/CD tools
 - Amazon Web Services (AWS)
