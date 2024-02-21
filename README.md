@@ -10,17 +10,6 @@
 [![YouTube](https://img.shields.io/youtube/channel/views/UCyd4CXY_oQxM5TYN00GMkMQ?style=social)](https://www.youtube.com/watch?v=LuFqMLX87zo)
 ![](https://komarev.com/ghpvc/?username=dadwic&color=brightgreen&style=flat)
 
-### 🔭 I’m currently working on:
-- Blockchain
-- Cryptocurrencies
-- No-code website builder
-
-### 🌱 I’m currently learning:
-- Solidity
-- Vue.js and Nuxt
-- DevOps CI/CD tools
-- Amazon Web Services (AWS)
-
 ## Stats
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dadwic&count_private=true&show_icons=true&theme=dracula"/>
