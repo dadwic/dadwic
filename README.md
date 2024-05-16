@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mehrdad 🇹🇷</h1>
+<h1 align="center">Hey👋 I'm Mehrdad 🇮🇷🇹🇷</h1>
 <h3 align="center">Expert full-stack engineer with over 8 years of professional work experience in web development.</h3>
 
 [![twitter badge](https://img.shields.io/badge/-@dadwic-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dadwic)
