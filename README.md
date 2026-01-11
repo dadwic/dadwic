@@ -9,10 +9,3 @@
 ![githubbadge](https://img.shields.io/github/followers/dadwic?style=social)
 [![YouTube](https://img.shields.io/youtube/channel/views/UCyd4CXY_oQxM5TYN00GMkMQ?style=social)](https://www.youtube.com/watch?v=LuFqMLX87zo)
 ![](https://komarev.com/ghpvc/?username=dadwic&color=brightgreen&style=flat)
-
-## Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dadwic&count_private=true&show_icons=true&theme=dracula"/>
-  <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadwic&layout=compact&theme=dracula"/>
-</p>
