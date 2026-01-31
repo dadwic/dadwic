@@ -5,7 +5,7 @@
 [![dev.to badge](https://img.shields.io/badge/-dadwic-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dadwic)
 [![dev.to badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/5677040/dadwic)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/dadwic)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dadwic0@gmail.com)](mailto:dadwic0@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dadwic1@gmail.com)](mailto:dadwic1@gmail.com)
 ![githubbadge](https://img.shields.io/github/followers/dadwic?style=social)
 [![YouTube](https://img.shields.io/youtube/channel/views/UCyd4CXY_oQxM5TYN00GMkMQ?style=social)](https://www.youtube.com/watch?v=LuFqMLX87zo)
 ![](https://komarev.com/ghpvc/?username=dadwic&color=brightgreen&style=flat)
