@@ -1,16 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hey👋 I'm Mehrdad 🇮🇷🇹🇷</h1>
+<h3 align="center">Expert full-stack engineer with over 8 years of professional work experience in web development.</h3>
 
-<!--
-**dadwic/dadwic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![twitter badge](https://img.shields.io/badge/-@dadwic-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dadwic)
+[![dev.to badge](https://img.shields.io/badge/-dadwic-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dadwic)
+[![dev.to badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/5677040/dadwic)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/dadwic)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dadwic1@gmail.com)](mailto:dadwic1@gmail.com)
+![githubbadge](https://img.shields.io/github/followers/dadwic?style=social)
+[![YouTube](https://img.shields.io/youtube/channel/views/UCyd4CXY_oQxM5TYN00GMkMQ?style=social)](https://www.youtube.com/watch?v=LuFqMLX87zo)
+![](https://komarev.com/ghpvc/?username=dadwic&color=brightgreen&style=flat)
